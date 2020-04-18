@@ -1,4 +1,3 @@
-# Optimalization-Methods
-Repo containing tasks I do for laboratories.
+# OM - Lab 6 (Package management and tests)
 
-Please note, that some lab folders may have their own README.md.
+This repository contains lab 6 exercise, for more information on how to run see `test_lab4/README.md`.
